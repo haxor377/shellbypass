@@ -1,0 +1,2 @@
+# shellbypass
+shell litespeed
